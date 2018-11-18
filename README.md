@@ -7,7 +7,6 @@ This is a handbook to show what Data Structures I have mastered during this cour
 It includes a description, a depiction in memory, where they are used, and an example of each one.
 
 <h2>List of Structures</h2>
-<ul>
-  <li><a href="Data-Structures-Handbook/List.md"> List </a>
-<ul>
+
+[List](List.md)
       
