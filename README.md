@@ -8,5 +8,5 @@ It includes a description, a depiction in memory, where they are used, and an ex
 
 <h2>List of Structures</h2>
 
-[List](List.md)
+[Array](Array.md)
       
