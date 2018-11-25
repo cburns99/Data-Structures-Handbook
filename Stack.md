@@ -2,6 +2,7 @@
 <p1>A Stack is an ordered data structure of elements that are all inserted on top of each other just like a stack of cards. This makes it LIFO(last in, first out).  </p1>
 <h2>Memory</h2>
 <h2>Operations</h2>
+
 * **insert**: "push"
   * this is a O(1) operation.This is because it is a simple operation to just simpily add an element to the top of the stack.
 
