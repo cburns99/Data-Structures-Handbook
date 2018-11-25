@@ -2,7 +2,7 @@
 <p1>A Deque is very similar to a Queue. The difference is that Deques are open ended, which means that they are neither LIFO, or FIFO. You can add or remove from both the front and rear.</p1>
 <h2>Memory</h2>
 <h2>Operations</h2>
-<p1> Insertion and deletions Big O complexity depends on wether it is taking place at the front or the rear of the Deque. At the fron it is a easy o(1) operation, while it is 0(n) from the rear. 
+<p1> Insertion and deletions Big O complexity depends on wether it is taking place at the front or the rear of the Deque. At the front it is a easy o(1) operation, while it is 0(n) from the rear. This is because it must sort through the elements before it can add or remove from the rear.</p1> 
 <h2>Use cases</h2>
 <p1> A Deque is a useful data structure that is used in programs like Microsoft Word. The undo, and redo buttons are a deque. They can add or remove from both the front and rear. </p1>
 <h2>Example</h2>
