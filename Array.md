@@ -7,5 +7,5 @@
 <p1> Deletion - Is an O(n) operation. Like insertion the entire array must be gone through element by element.
   
 <h2>Use cases</h2>
-<p1> Arrays are very useful for when you know exactly hom many elements you need to store. </p1>
+<p1> Arrays are very useful for when you know exactly hom many elements you need to store. They are quick and easy to implement, and their fast access time makes them a go to when you know exactly how many elements are going to be stored.  </p1>
 <h2>Example</h2>
