@@ -1,6 +1,7 @@
 <h1> Array </h1>
 <p1> An array is a data structure that contains different elements of the same data type, each stored contiguously in memory.</p1>
 <h2> Memory </h2>
+[In memory an Array looks like this](images/array.png)
 <h2>Operations</h2>
 <p1> Access - Is an O(1) opperation, as every element is one after another in memory. So an elements position can be calculated by a simple equation like: Start + i. This makes it O(1) </p1><br/>
 <p1>Insertion - Is an O(n) operation, as you must go through and shift each element in the array before inserting the new element. If the array is full you must resize the array.</p1><br/>
