@@ -26,12 +26,13 @@ class Node:
         self.next = newnext
 class List:
     def __init__(self):
+        
         self.head = None
         
     def insert(self,item):
-        temp = Node(item)
-        temp.set_next(self.head)
-        self.head = temp
+        insertee = Node(item)
+        insertee.set_next(self.head)
+        self.head = insertee
 
     def search(self,item):
         current = self.head
