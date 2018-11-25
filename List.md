@@ -13,48 +13,48 @@ class Node:
         self.data = initdata 
         self.next = None 
 
-    def getData(self): 
+    def get_data(self): 
         return self.data
 
-    def getNext(self):
+    def get_next(self):
         return self.next
 
-    def setData(self,newdata):
+    def set_data(self,newdata):
         self.data = newdata
 
-    def setNext(self,newnext):
+    def set_next(self,newnext):
         self.next = newnext
 class List:
     def __init__(self):
         self.head = None
         
-    def add(self,item):
+    def insert(self,item):
         temp = Node(item)
-        temp.setNext(self.head)
+        temp.set_next(self.head)
         self.head = temp
 
     def search(self,item):
         current = self.head
         found = False
-        while current != None and not found:
-            if current.getData() == item:
+        while current is not None and not found:
+            if current.get_data() is item:
                 found = True
             else:
-                current = current.getNext()
+                current = current.get_next()
         return found
 
-    def remove(self,item):
+    def delete(self,item):
         current = self.head
         previous = None
         found = False
         while not found:
-            if current.getData() == item:
+            if current.get_data() is item:
                 found = True
             else:
                 previous = current
-                current = current.getNext()
-        if previous == None:
-            self.head = current.getNext()
+                current = current.get_next()
+        if previous is None:
+            self.head = current.get_next()
         else:
-            previous.setNext(current.getNext())
+            previous.set_next(current.get_next())
             
