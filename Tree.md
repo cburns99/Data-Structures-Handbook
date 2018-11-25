@@ -7,7 +7,9 @@
   <p1>The most common use is to store data that can be accessed and searched quickly, and efficiently.
 <h2>Example</h2>
     <p1>
+	    
 class BinarySearchTree:
+	
 	def __init__(self, value = None):
 		self.value = value
 		self.left = None
