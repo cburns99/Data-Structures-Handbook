@@ -7,22 +7,23 @@
 <p1> Linked lists are very useful data structures and they are very easily changed. Inserting and deleting is a very quick and easy procedure. </p1>
 <h2> Example<h2>
   <p1>
-class Node:
-    def __init__(self,initdata):
-        self.data = initdata
-        self.next = None
+class Node:<br/>
+    def __init__(self,initdata):<br/>
+    
+        self.data = initdata <br/>
+        self.next = None <br/>
 
-    def getData(self):
-        return self.data
+    def getData(self): <br/>
+        return self.data<br/>
 
-    def getNext(self):
-        return self.next
+    def getNext(self):<br/>
+        return self.next<br/>
 
-    def setData(self,newdata):
-        self.data = newdata
+    def setData(self,newdata):<br/>
+        self.data = newdata<br/>
 
-    def setNext(self,newnext):
-        self.next = newnext
+    def setNext(self,newnext):<br/>
+        self.next = newnext<br/>
 class List:
     def __init__(self):
         self.head = None
