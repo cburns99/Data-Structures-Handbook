@@ -1,5 +1,5 @@
 <h1> List</h1>
-<p1> A List is a data structure that holds a collection of items. Each of these items holds a position relative to the others. There are singly and doubly linked lists. Doubly liked lists point both forwards and backwards, while singly only points forward.  </p1>
+<p1> A List is a data structure that holds a collection of items. Each of these items holds a position relative to the others. There are singly and doubly linked lists. Doubly linked lists point both forwards and backwards, while singly only points forward.  </p1>
 <h2> Memory </h2>
 <h2>Operations</h2>
 <p1>Access and search are both o(n) operations. This is because in order to traverse through the list we must go element by element until we come to the value we are searching for, or accessing. <br/> Insertion and deletion on the other hand are both o(1) operations. As insertion requires making the node previous to the insertee point to insertee. And make insertee point to previouses next. Deletion is just the opposite of insertion. </p1>
