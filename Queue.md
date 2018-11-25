@@ -6,12 +6,12 @@
 <h2>Use Cases</h2>
 A good use case example is printing queues. Say you and 5 other people have all wanted to print something at around the same time. The program that figures out who clicked "print" first, second, thrid and so on is a queue.
 <h2>Examples</h2>
-<p1> class Queue:
-      def __init__(self):
-        self.items = []
-      def is_empty(self):
-        return self.items == []
-      def enqueue(self, item)
-        self.items.insert(0,item)
-      def dequeue(self):
-        return self.items.pop()
+<p1> class Queue: <br/>
+      def __init__(self):<br/>
+        self.items = []<br/>
+      def is_empty(self):<br/>
+        return self.items == []<br/>
+      def enqueue(self, item)<br/>
+        self.items.insert(0,item)<br/>
+      def dequeue(self):<br/>
+        return self.items.pop()<br/>
