@@ -3,7 +3,7 @@
 <h2> Memory</h2>
 <h2> Operations </h2>
 <p1>Get(access) - This is an 0(1) operation. This is constant since it is just returning the value associated with whatever key is given.
-<br/> Insertion and deletion are also 0(1) as we can change values or add values with a quick  assignment operator. <br/> For insertion we are just adding a pair to the containor that is the Dictionary, because they are unordered we do not need to shift like we do with a list. <br/> Useful methods for Dictionaries are: clear(), copy(), keys(), get(), and pop()</p1>
+<br/> Insertion/deletion - These are also 0(1) as we can change values or add values with a quick  assignment operator. <br/> For insertion we are just adding a pair to the containor that is the Dictionary, because they are unordered we do not need to shift like we do with a list. <br/> Useful methods for Dictionaries are: clear(), copy(), keys(), get(), and pop()</p1>
 <h2> Use cases </h2>
 <p1> Dictionaries are very useful as they have a fast look up time. Nearly 0(1). They are great for data bases. For example if you were search NFL Teams to see what teams were in certain cities, it may look like the following:
 <h2> Example </h2>
