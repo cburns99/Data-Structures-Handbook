@@ -5,7 +5,6 @@
 <h2>Operations</h2>
 <h3> List operations </h3>
 <p1> Python list acts exactly like a dynamic array. So go check out that page. <br/>
-  [Array](Array.md)
 <h3> Linkedlist operations </h3>
 <p1>Access and search are both o(n) operations. This is because in order to traverse through the list we must go element by element until we come to the value we are searching for, or accessing. <br/> Insertion and deletion on the other hand are both o(1) operations. As insertion requires making the node previous to the insertee point to insertee. And make insertee point to previouses next. Deletion is just the opposite of insertion. </p1>
 <h2>Use cases</h2>
