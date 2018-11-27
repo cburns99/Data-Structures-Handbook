@@ -10,3 +10,10 @@ Deletion -Is an O(n) operation. Like insertion the entire array must be gone thr
 <h2>Use cases</h2>
 <p1> Arrays are very useful for when you know exactly how many elements you need to store. They are quick and easy to implement, and their fast access time makes them a go to when you know exactly how many elements are going to be stored.  </p1>
 <h2>Example</h2>
+<p1>
+  myList = []
+  myList.index()
+  myList.append()
+  myList.del()
+  myList.insert(i, item)
+  </p1>
