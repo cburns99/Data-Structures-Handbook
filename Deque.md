@@ -6,5 +6,6 @@
 <h2>Use cases</h2>
 <p1> A Deque is a useful data structure that is used in programs like Microsoft Word. The undo, and redo buttons are a deque. They can add or remove from both the front and rear, which makes them more adaptable than a Queue. </p1>
 <h2>Example</h2>
-<p1> deque.add_rear()<br/> deque.add_front() <br/> deque.remove_rear() <br/>deque.remove_front()
+<p1> deque.add_rear() #uses insert() function<br/> deque.add_front() #uses appened() function <br/> deque.remove_rear()
+  # uses pop(0) function <br/>deque.remove_front() #uses pop() function
 
