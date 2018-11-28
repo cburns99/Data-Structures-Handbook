@@ -7,8 +7,8 @@
   <p1>The most common use is to store data that can be accessed and searched quickly and efficiently. They are often used for implementing maps or sets. They are much faster for seearching than Binary Heaps, while Heaps have a faster insertion time.
 <h2>Example</h2>
     <p1>
-bst.insert(self, insertee)
-bst.delete(self)
-bst.find(self, item)
+bst.insert(self, insertee)<br/>
+bst.delete(self)<br/>
+bst.find(self, item)<br/>
 
 </p1>
