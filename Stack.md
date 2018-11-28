@@ -1,6 +1,7 @@
 <h1>Stack</h1>
 <p1>A Stack is an ordered data structure of elements that are all inserted on top of each other just like a stack of cards. This makes it LIFO(last in, first out).  </p1>
 <h2>Memory</h2>
+<img src="stack_image.png">
 <h2>Operations</h2>
 
 * **push**:
