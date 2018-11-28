@@ -17,5 +17,5 @@ It includes a description, a depiction in memory, where they are used, and an ex
 [Queue](Queue.md)<br/>
 [Deque](Deque.md)<br/>
 [Tree](Tree.md)<br/>
-[Binary Heap](priority_queue.md)<br/>
+[Priority Queue](priority_queue.md)<br/>
 [Graph](Graph.md)
