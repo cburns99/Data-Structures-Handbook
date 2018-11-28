@@ -1,6 +1,7 @@
 <h1>Queue</h1>
 <p1> A Queue is an ordered data structure that contains elements that come in from one end and go out the other. This makes it FIFO (First in first out).</p>
 <h2> Memory</h2>
+<img src="queue_image.png">
 <h2>Operations</h2>
 <UL>
    <LI>Access and search are both o(n) operations. As we must continue to send items throught the queue until we are able to access it. Just like a register at the supermarket must check out everyone in front of you before they help you. 
