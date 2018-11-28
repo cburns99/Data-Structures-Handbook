@@ -1,6 +1,7 @@
 <h1>Deque</h1>
 <p1>A Deque is very similar to a Queue. The difference is that Deques are open ended, which means that they are neither LIFO, or FIFO. You can add or remove from both the front and rear. Which means it is up to you to come up with consistent addition and deletion operators.</p1>
 <h2>Memory</h2>
+<img src="deque_image.png">
 <h2>Operations</h2>
 <UL> 
   <LI>add_rear() is O(n)/add_front() is O(1)
