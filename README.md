@@ -11,6 +11,7 @@ It includes a description, a depiction in memory, where they are used, and an ex
 [Array](Array.md)<br/>
 [Dictionary](Dictionary.md)<br/>
 [Tuple](Tuple.md)<br/>
+[Set](Set.md)</br>
 [List](List.md)<br/>
 [Stack](Stack.md)<br/>
 [Queue](Queue.md)<br/>
