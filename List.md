@@ -2,6 +2,7 @@
 <p1> A List is a data structure that holds a collection of items. Each of these items holds a position relative to the others. In Python the List acts as a dynamic array.<br/>
   There are also structures called Linked lists. These come in two different types, singly and doubly linked. Linked lists contain nodes, these nodes have a value, as well as a pointer. Doubly linked lists point both forwards and backwards, while singly only points forward.  </p1>
 <h2> Memory </h2>
+<img src="linkedlist_image.png">
 <h2>Operations</h2>
 <h3> List operations </h3>
 <p1> Python list acts exactly like a dynamic array. So go check out that page. <br/>
