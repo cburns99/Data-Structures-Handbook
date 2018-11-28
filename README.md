@@ -18,4 +18,4 @@ It includes a description, a depiction in memory, where they are used, and a few
 [Deque](Deque.md)<br/>
 [Binary Search Tree](Tree.md)<br/>
 [Priority Queue](priority_queue.md)<br/>
-[Graph](Graph.md)
+[Graph](graph.md)
