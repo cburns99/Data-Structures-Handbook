@@ -1,6 +1,7 @@
 <h1>Dictionary</h1>
 <p1> A Dictionary is a mutable(can be changed) containor of keys that are mapped to different values. Meaning it is a key : value data structure. A dictionary is non sequential, meaning it is unordered.</p1>
 <h2> Memory</h2>
+<img src="Dictionary.png">
 <h2> Operations </h2>
 <UL>
 <LI>Get - This is an 0(1) operation. This is constant since it is just returning the value associated with whatever key is given.
