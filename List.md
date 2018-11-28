@@ -11,7 +11,7 @@
   <LI>Access and search are both o(n) operations. This is because in order to traverse through the list we must go element by element until we come to the value we are searching for, or accessing. 
   <LI>Insertion and deletion on the other hand are both o(1) operations. As insertion requires making the node previous to the insertee point to insertee. And make insertee point to previouses next. Deletion is just the opposite of insertion. </p1>
 <h2>Use cases</h2>
-<p1> Linked lists are very useful data structures and they are very easily changed. Inserting and deleting is a very quick and easy procedure. Although they are not as good as other dictionaries like a dictionary for searching and accessing elements. </p1>
+<p1> Linked lists are very useful data structures and they are very easily changed. Inserting and deleting is a very quick and easy procedure. Although they are not as good as other data structures like a dictionary for searching and accessing elements. </p1>
 <h2> Example<h2>
   <p1>remove(self,item)<br/>
     insert(self,item)<br/>
