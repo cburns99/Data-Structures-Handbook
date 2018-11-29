@@ -14,7 +14,7 @@
 <p1> Linked lists are very useful data structures and they are very easily changed. Inserting and deleting is a very quick and easy procedure. Although they are not as good as other data structures like a dictionary for searching and accessing elements. </p1>
 <h2> Example<h2>
   <p1>
-    LinkedList() = ll()<br/>
+    LinkedList = ll()<br/>
     ll.remove(self,item)<br/>
     ll.insert(self,item)<br/>
     ll.search(self,item)<br/>
