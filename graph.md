@@ -7,8 +7,8 @@
 <UI>
   <LI>Insertion of a Vertex is O(1) constant time. 
     <LI>Insertion of an Edge is O(1) constant time. 
-      <LI> Deletion of a Vertext is O(|E|)
-        <LI>Deletion of an Edge is O(|V|)
+      <LI> Deletion of a Vertex is O(|V|) |V| is the degree that the vertex has. The reason that this matter is because all of the Vertices neighbors must have their pointer changed and the connecting edges removed. 
+        <LI>Deletion of an Edge is O(1) This is because the two vertices that were connected to the egdge must have their pointer changed.
           </UI>
 <h2> Use Cases</h2>
 <p1> Can be thought of as how the internet is connected. Web pages being the vertices, and hyperlinks being the edges. Or a map, as roads could be edges and cities being vertices. The time it takes to take on road vs another to get city to city could be though of as the weights on those edges. There are algorithms that have been created to find the best sequence (path) between different vertices to find the best one( sort of like how google maps finds the best route between the start and destination). A few of these algorithms are named Breadth First Search(unweighted shortest path), Depth First Search (Computes finish times) and Dijkstras (Weighted shortest path).
