@@ -5,7 +5,7 @@
 <h2>Operations</h2>
 <UL>
    <LI>Access and search are both o(n) operations. As we must continue to send items throught the queue until we are able to access it. Just like a register at the supermarket must check out everyone in front of you before they help you. 
-   <LI>Using a list, queues implement operators like "pop" and "insert"
+   <LI>Using a python list or array, queues implement operators like "pop" and "insert"
    <LI>Dequeue is a O(1) operation. This is becuase we can simply "dequeue" an element from the end of the queue with one operation.
    <LI>Equeue is a O(n) operation. This is because it must go through the queue before it is at the front of the queue.
 </UL>
