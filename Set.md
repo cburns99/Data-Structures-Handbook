@@ -4,6 +4,7 @@
 <img src="set_image.png">
 <h2>Operations</h2>
 <UL>
+  
 <LI>  Add - Adds items to the set.  O(1) constant time as it is the same as an array.
 <LI> Remove - Removes item from a set. O(1) constant time as it is the same as an array.
 <LI> in - checks to see if element is in the Set. This is an O(n) operation as sets have different types of data types, so it must check every element.
