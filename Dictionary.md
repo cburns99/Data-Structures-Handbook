@@ -1,5 +1,5 @@
 <h1>Dictionary</h1>
-<p1> A Dictionary is a mutable(can be changed) containor of keys that are mapped to different values. Meaning it is a key : value data structure. A dictionary is non sequential, meaning it is unordered. It is built into Python, in other languages it can be referred to as a Hash Table. </p1>
+<p1> A Dictionary is a mutable(can be changed) containor of keys that are mapped to different values. Meaning it is a key : value data structure. A dictionary is non sequential, meaning it is unordered. It is built into Python, in other languages it can be referred to as a Hash Table. Its syntax includes "{}" </p1>
 <h2> Memory</h2>
 <img src="Dictionary.png">
 <h2> Operations </h2>
