@@ -5,8 +5,8 @@
 <img src="graph_image.png">
 <h2> Operations</h2>
 <UI>
-  <LI>Insertion of a Vertex is O(1) constant time.
-    <LI>Insertion of an Edge is O(1) constant time.
+  <LI>Insertion of a Vertex is O(1) constant time. 
+    <LI>Insertion of an Edge is O(1) constant time. 
       <LI> Deletion of a Vertext is O(|E|)
         <LI>Deletion of an Edge is O(|V|)
           </UI>
