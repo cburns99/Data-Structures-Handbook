@@ -18,3 +18,4 @@
   myArray.del()<br/>
   myArray.insert(i, item)<br/>
   </p1>
+  [Next Page](Dictionary.md)
