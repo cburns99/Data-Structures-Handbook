@@ -1,5 +1,5 @@
 <h1> Set </h1>
-<p1>A set is an unordered data structure that is immutable. Sets do not allow duplicates and are heterogeneous. It is a built in data structure for Python, its syntax is as follows "mySet = {}"</p1>
+<p1>A set is an unordered data structure that is immutable. Sets do not allow duplicates and are heterogeneous. They are a built in data structure for Python, and their syntax are as follows: "mySet = {}"</p1>
 <h2> Memory </h2>
 <img src="setimage.png">
 <h2>Operations</h2>
@@ -10,7 +10,7 @@
 <LI> in - checks to see if element is in the Set. This is an O(n) operation as sets have different types of data types, so it must check every element.
   </UL>
 <h2>Use Cases </h2>
-Sets are good for storing values when you can not have duplicates. Although arrays are better for a bunch of elements when there are duplicates.
+Sets are good for storing values when you can not have duplicates. Although arrays are better for a bunch of elements when duplicates are present.
 <h2>Example</h2>
 mySet = {1, 'dog', 60}</br>
 'dog' in mySet</br>
