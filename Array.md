@@ -9,7 +9,7 @@
 <LI>Deletion -Is an O(n) operation. Like insertion the entire array must be gone through element by element.
   </UL>
 <h2>Use cases</h2>
-<p1> Arrays are very useful for when you know exactly how many elements you need to store. They are quick and easy to implement, and their fast access time makes them a go to when you know exactly how many elements are going to be stored.<br/> Although because they do not have a fast insertion/deletion time, they are sometimes not as good as other structures like a dictionary.  </p1>
+<p1> Arrays are very useful for when you know exactly how many elements you need to store. They are quick and easy to implement, and their fast access time makes them a go to when you know exactly how many elements are going to be stored.<br/> Although because they do not have a fast insertion/deletion time, because of this they are sometimes not as good as other structures like a dictionary.  </p1>
 <h2>Example</h2>
 <p1>
   myArray = [] <br/>
