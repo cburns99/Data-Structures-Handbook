@@ -16,5 +16,7 @@ mySet = {1, 'dog', 60}</br>
 'dog' in mySet</br>
 mySet.add(4)</br>
 mySet.remove('dog')</br>
-print(mySet)
-output ---><br/>True<br/>{1,60,4}
+print(mySet)<br/>
+output ---><br/> 
+True<br/>
+{1,60,4}
