@@ -2,7 +2,6 @@
 <p1> A graph is a similar data structure to a tree. Graphs have vertices, edges, a weight on the edges, and a path(sequence of vertices). Graphs that are broken up into parts have multiple components, while graphs that are one continuous sequence have one componenet. Graphs that end and start with the same vertex are a cycle,  They are implemented in two ways, with an adjacency list, and an adjacency matrix <br/>
 </p1>
 <h2>Memory</h2>
-An adjacency
 <img src="graph_image.png">
 <h2> Operations</h2>
 <UI>
