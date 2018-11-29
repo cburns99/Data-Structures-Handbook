@@ -13,7 +13,7 @@
 * **peek**: 
   * This is a O(n) operation. It simply returns the top item from the stack but does not remove it.
 <h2>Use cases</h2>
-<p1> Stacks are used to backtrack to see history in programs. A web browser history is a good example of a stack in use. They have super fast insertion and deletion, but are much slower than Binary Search Trees at accessing and searching.
+<p1> Stacks are used to backtrack to see history in programs. A web browser history is a good example of a stack in use. They have super fast pushing and popping times, but are much slower than Binary Search Trees, arrays, and dictionaries at accessing and searching.
 <h2>Example</h2>
   <p1>
      stack = Stack()
