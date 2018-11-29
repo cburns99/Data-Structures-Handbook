@@ -1,7 +1,7 @@
 <h1>Tuple</h1>
 <p1> Tuples are very similar to lists, as they are heterogeneous. But unlike lists, tuples are not immutable (can not be changed). It is bulit into Python, and its syntax is as follows "myTuple = ()"</p1>
 <h2>Memory</h2>
-<img src="Tuple.png">
+<img src="tuple_image.png">
 
 <h2>Operations</h2>
 <p1>Access is an o(1) operation, just like an array, it is only one operation as they are all continuous in memory. Tuples do not allow insertion or deletion, as they are immutable.</p1>
