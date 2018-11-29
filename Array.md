@@ -12,9 +12,9 @@
 <p1> Arrays are very useful for when you know exactly how many elements you need to store. They are quick and easy to implement, and their fast access time makes them a go to when you know exactly how many elements are going to be stored.<br/> Although because they do not have a fast insertion/deletion time, they are sometimes not as good as other structures like a dictionary.  </p1>
 <h2>Example</h2>
 <p1>
-  myList = [] <br/>
-  myList.index()<br/>
-  myList.append()<br/>
-  myList.del()<br/>
-  myList.insert(i, item)<br/>
+  myArray = [] <br/>
+  myArray.index()<br/>
+  myArray.append()<br/>
+  myArray.del()<br/>
+  myArray.insert(i, item)<br/>
   </p1>
