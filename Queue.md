@@ -13,7 +13,8 @@
 A good use case example is printing queues. Say you and 5 other people have all wanted to print something at around the same time. The program that figures out who clicked "print" first, second, thrid and so on is a queue. Queues are great for quickly dequeueing off elements, but not as good as say stacks for enqueueing elements.
 <h2>Examples</h2>
 <p1> 
-is_empty(self)<br/>
-enqueue(self, item) # uses insert()<br/>
-dequeue(self) # usues pop()<br/>
+q = Queue()
+q.is_empty(self)<br/>
+q.enqueue(self, item) # uses insert()<br/>
+q.dequeue(self) # usues pop()<br/>
  </p1>                              
