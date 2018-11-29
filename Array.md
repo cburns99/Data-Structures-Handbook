@@ -1,5 +1,5 @@
 <h1> Array </h1>
-<p1> An array is a data structure that contains different elements of the same data type, each stored contiguously in memory.</p1>
+<p1> An array is a data structure that contains different elements of the same data type, each stored contiguously in memory. Its syntax is the following "myArray = []"</p1>
 <h2> Memory </h2>
 <img src="array.png">
 <h2>Operations</h2>
