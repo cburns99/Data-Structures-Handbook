@@ -1,7 +1,8 @@
 <h1>Priority Queue </h1>
-<p1> A Priority Queue, also known as a Binary Heap, is a data structure that is like a queue and dequeue from the front, but has the hieghest priority at the front and the least at the back.<br/>
+<p1> A Priority Queue, is a data structure that is like a queue and dequeue from the front, but has the hieghest priority at the front and the least at the back.<br/>
 Parents are smalller than children. There are two types of Priority Queues, Max Heap which puts the largest key at the front, and Min Heap which puts the smallest key at the front.</p1>
 <h2>Memory</h2>
+<h4>Priority Queue represented with heap</h4>
 <img src="priority_queue.png">
 <h2>Operations</h2>
 <UL>
@@ -12,7 +13,8 @@ Parents are smalller than children. There are two types of Priority Queues, Max 
 <p1> Binary Heap has a much faster insertion speed than a BST, while a BST has a faster search speed.
 <h2>Examples</h2>
 <p1>
-bh.insert()<br/>
-bh.find_min()<br/>
-bh.del_min()
+pq = PriorityQueue()
+pq.insert()<br/>
+pq.find_min()<br/>
+pq.del_min()
 </p1>
