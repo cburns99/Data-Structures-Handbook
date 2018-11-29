@@ -16,7 +16,7 @@
 <p1> Stacks are used to backtrack to see history in programs. A web browser history is a good example of a stack in use. They have super fast insertion and deletion, but are much slower at accessing and searching.
 <h2>Example</h2>
   <p1>
-   
+     stack = Stack()
      stack.push(self, item) #uses append
      stack.pop(self):
      stack.peek(self):
