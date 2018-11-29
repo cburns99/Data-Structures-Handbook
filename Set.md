@@ -4,9 +4,9 @@
 <img src="set_image.png">
 <h2>Operations</h2>
 <UL>
-<LI>  Add - adds items to the set.
-<LI> Remove - Removes item from a set.
-<LI> in - checks to see if element is in the Set.
+<LI>  Add - Adds items to the set.  O(1) constant time as it is the same as an array.
+<LI> Remove - Removes item from a set. O(1) constant time as it is the same as an array.
+<LI> in - checks to see if element is in the Set. This is an O(n) operation as sets have different types of data types, so it must check every element.
   </UL>
 <h2>Use Cases </h2>
 Sets are good for storing values when you can not have duplicates. Although arrays are better for a bunch of elements when there are duplicates.
