@@ -1,7 +1,7 @@
 <h1> Set </h1>
 <p1>A set is an unordered data structure that is immutable. Sets do not allow duplicates and are heterogeneous. </p1>
 <h2> Memory </h2>
-<img src="set_image.png">
+<img src="setimage.png">
 <h2>Operations</h2>
 <UL>
   
