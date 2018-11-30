@@ -1,5 +1,5 @@
 <h1>Graph</h1>
-<p1> A graph is a similar data structure to a tree. Graphs have vertices, edges, a weight on the edges, and a path(sequence of vertices). Graphs that are broken up into parts have multiple components, while graphs that are one continuous sequence have one componenet. Graphs that end and start with the same vertex are a cycle,  They are implemented in two ways, with an adjacency list, and an adjacency matrix <br/>
+<p1> A graph is a similar data structure to a tree. Graphs have vertices, edges, a weight on the edges, and a path(sequence of vertices). Graphs that are broken up into parts have multiple components, while graphs that are one continuous sequence have one componenet. Graphs that end and start with the same vertex are a cycle. They are implemented in two ways, with an adjacency list, and an adjacency matrix and can be represented by the following equation G = (V,E) V being the vertex, and E being the Edge. <br/>
 </p1>
 <h2>Memory</h2>
 <img src="graph_image.png">
