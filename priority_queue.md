@@ -13,7 +13,7 @@ Parents are smalller than children. There are two types of Priority Queues, Max 
 <p1> Binary Heap has a much faster insertion speed than a BST, while a BST has a faster search speed.
 <h2>Examples</h2>
 <p1>
-pq = PriorityQueue()
+pq = PriorityQueue()<br/>
 pq.insert()<br/>
 pq.find_min()<br/>
 pq.del_min()
